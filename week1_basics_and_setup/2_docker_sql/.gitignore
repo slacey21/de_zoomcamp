@@ -1,2 +1,4 @@
 ny_taxi_postgres_data/*
 .DS_Store
+postgres_pw.txt
+pgadmin_pw.txt
